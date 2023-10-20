@@ -1,10 +1,9 @@
 # Python-Projects
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo.svg)](https://github.com/yourusername/your-repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo.svg)](https://github.com/yourusername/your-repo/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo.svg)](https://github.com/yourusername/your-repo/issues)
-
+[![GitHub stars](https://img.shields.io/github/stars/MarkEddy001/python-projects-repo.svg)](https://github.com/MarkEddy001/python-projects-repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/MarkEddy001/python-projects-repo.svg)](https://github.com/MarkEddy001/python-projects-repo/network)
+[![GitHub issues](https://img.shields.io/github/issues/MarkEddy001/python-projects-repo.svg)](https://github.com/MarkEddy001/python-projects-repo/issues)
 ## About
 
 A brief introduction to your project. What is it, what does it do, and why is it useful? Provide context and motivation for your project.
