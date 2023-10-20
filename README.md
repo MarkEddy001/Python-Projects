@@ -7,7 +7,7 @@
 
 ## About
 
-A brief introduction to your project. What is it, what does it do, and why is it useful? Provide context and motivation for your project.
+This repository will be reponsible for hosting all my Python projects from scratch to advanced projects
 
 ## Features
 
@@ -53,7 +53,7 @@ Mention any libraries, tools, or individuals you'd like to thank or credit.
 
 ## Contact
 
-Provide your contact information, such as email or social media links, in case others want to get in touch with you.
+Reach me via my email Markeddy254@gmail.com .
 
 ## Support
 
