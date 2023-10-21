@@ -1,4 +1,4 @@
-# Python-Projects
+# Python-Projects🐱‍👤
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/MarkEddy001/python-projects-repo.svg)](https://github.com/MarkEddy001/python-projects-repo/stargazers)
@@ -7,7 +7,7 @@
 
 ## About
 
-This repository will be reponsible for hosting all my Python projects from scratch to advanced projects
+This repository will be reponsible for hosting all my Python projects from scratch to advanced projects😉
 
 ## Features
 
