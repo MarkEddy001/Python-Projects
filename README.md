@@ -7,7 +7,7 @@
 
 ## About
 
-- This repository will be reponsible for hosting all my Python projects from scratch to advanced projects😉
+- This repository will be responsible for hosting all my Python projects from scratch to advanced projects😉
 
 ## Features
 
@@ -53,7 +53,7 @@ Mention any libraries, tools, or individuals you'd like to thank or credit.
 
 ## Contact
 
-Reach me via my email Markeddy254@gmail.com .
+Reach me via my email Markeddy254@gmail.com.
 
 ## Support
 
