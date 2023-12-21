@@ -7,7 +7,7 @@
 
 ## About
 
-This repository will be reponsible for hosting all my Python projects from scratch to advanced projects😉
+- This repository will be reponsible for hosting all my Python projects from scratch to advanced projects😉
 
 ## Features
 
